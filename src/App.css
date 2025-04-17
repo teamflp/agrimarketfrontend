@@ -1,0 +1,33 @@
+/*:root {
+  --orange: #ff9933;
+  --white:  #FFFFFF;
+  --green:  #34ad54;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+nav a {
+  color: var(--white);
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+nav a:hover {
+  color: var(--green);
+}
+
+
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--white);
+}
+*/
